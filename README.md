@@ -30,4 +30,4 @@ How to Use
 Clone the repository:
 
 ```bash
-git clone https://github.com/tosinanotosin/DecodeLabs-Internship.git
+git clone https://github.com/idowuoluwatosin/DecodeLabs-Internship.git
